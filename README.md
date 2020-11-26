@@ -48,7 +48,7 @@ If you select this option, on the next page you will enter:
 
 ## Options
 
-One you have set up an instance of the integration you also have additional options which can be configured by clicking "Options" on the integration.
+Once you have set up an instance of the integration you also have additional options which can be configured by clicking "Options" on the integration.
 
 ### Location Integrations
 
